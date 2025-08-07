@@ -62,33 +62,6 @@ This full-stack application demonstrates end-to-end machine learning development
 
 **Best Model**: Logistic Regression (outperformed Random Forest and Decision Tree)
 
-## 📁 Project Structure
-
-CodeAlpha_CreditScoreApp/
-├── ml-model/                 # Machine Learning components
-│   ├── ml_env/              # Python virtual environment
-│   ├── dataset_generator.py # Synthetic data generation
-│   ├── train_model.py       # Model training and evaluation
-│   ├── credit_model.py      # Prediction service
-│   ├── best_credit_model.pkl # Trained model
-│   └── *.pkl               # Model artifacts
-├── backend/                 # Node.js API server
-│   ├── src/
-│   │   └── server.ts       # Express.js server
-│   ├── package.json
-│   └── tsconfig.json
-├── frontend/               # React application
-│   ├── src/
-│   │   ├── components/     # React components
-│   │   │   ├── WelcomePage.tsx
-│   │   │   ├── DataInputForm.tsx
-│   │   │   └── ResultsPage.tsx
-│   │   └── App.tsx
-│   ├── public/
-│   └── package.json
-└── data/                   # Generated datasets
-└── credit_data.csv
-
 ## 🚀 Installation and Setup
 
 ### Prerequisites
