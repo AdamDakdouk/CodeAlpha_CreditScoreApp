@@ -5,16 +5,16 @@ An AI-powered web application that predicts creditworthiness using machine learn
 ![App Demo](https://img.shields.io/badge/Status-Complete-brightgreen) ![ML Model](https://img.shields.io/badge/ML%20Accuracy-91.3%25-blue) ![Tech Stack](https://img.shields.io/badge/Full%20Stack-React%20%7C%20Node.js%20%7C%20Python-orange)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [ML Model Performance](#ml-model-performance)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Model Details](#model-details)
-- [Screenshots](#screenshots)
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [ML Model Performance](#-ml-model-performance)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [API Endpoints](#-api-endpoints)
+- [Model Details](#-model-details)
 
 ## 🎯 Overview
 
