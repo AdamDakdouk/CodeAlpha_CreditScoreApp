@@ -21,7 +21,7 @@ This full-stack application demonstrates end-to-end machine learning development
 
 **⚠️ Disclaimer**: This is an educational project using synthetic data. Results should not be used for actual financial decisions.
 
-## ✨ Features
+##  Features
 
 - **🎨 Modern UI/UX**: Responsive design with glassmorphism effects and smooth animations
 - **🤖 AI-Powered Predictions**: Machine learning model with 91%+ accuracy
