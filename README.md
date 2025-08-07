@@ -15,7 +15,7 @@ An AI-powered web application that predicts creditworthiness using machine learn
 - [Sample Data](#sample-data)
 - [API Endpoints](#api-endpoints)
 
-## 🎯 Overview
+##  Overview
 
 This full-stack application demonstrates end-to-end machine learning development, from data generation and model training to web deployment. Users input their financial information through a modern, responsive interface and receive instant credit assessments with confidence scores and personalized recommendations.
 
@@ -50,7 +50,7 @@ This full-stack application demonstrates end-to-end machine learning development
 - **pandas and numpy** for data processing
 - **joblib** for model persistence
 
-## 📊 ML Model Performance
+##  ML Model Performance
 
 | Metric | Score |
 |--------|-------|
@@ -62,7 +62,7 @@ This full-stack application demonstrates end-to-end machine learning development
 
 **Best Model**: Logistic Regression (outperformed Random Forest and Decision Tree)
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
@@ -114,7 +114,7 @@ cd ../frontend
 npm install
 ```
 
-## 🖥️ Usage
+##  Usage
 ### Start Backend Server
 ```bash
 cd backend
