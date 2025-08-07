@@ -9,7 +9,6 @@ An AI-powered web application that predicts creditworthiness using machine learn
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [ML Model Performance](#ml-model-performance)
-- [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -81,22 +80,22 @@ cd ml-model
 python -m venv ml_env
 ```
 
-# Activate virtual environment
-# Windows
+#### Activate virtual environment
+#### Windows
 ```bash
 ml_env\Scripts\activate
 ```
-# Mac/Linux:
+#### Mac/Linux:
 ```bash
 source ml_env/bin/activate
 ```
 
-# Install Python dependencies
+#### Install Python dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter joblib flask flask-cors
 ```
 
-# Generate dataset and train model
+#### Generate dataset and train model
 ```bash
 python dataset_generator.py
 python train_model.py
