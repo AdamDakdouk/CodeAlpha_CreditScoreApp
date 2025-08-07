@@ -11,8 +11,9 @@ An AI-powered web application that predicts creditworthiness using machine learn
 - [ML Model Performance](#ml-model-performance)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
+- [Using the App](#using-the-app)
+- [Sample Data](#sample-data)
 - [API Endpoints](#api-endpoints)
-- [Model Details](#model-details)
 
 ## 🎯 Overview
 
